@@ -1,0 +1,42 @@
+header{
+    background: #0046FF;
+    height: fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.estrix_logo{
+    width: 75px;
+    background-color: #F5F1DC;
+    border-radius: 5px;
+}
+.rathinam_logo{
+    width: 70px;
+     background-color: #F5F1DC;
+    border-radius: 5px;
+
+}
+.sih_logo{
+    width: 70px;
+    background-color: #F5F1DC;
+    border-radius: 5px;
+}
+.railways_logo{
+    width: 70px;
+    background-color: #F5F1DC;
+    border-radius: 5px;
+}
+.logo_container{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.heading{
+    font-weight: 700;
+    font-size:35px;
+    margin-top: 13px;
+    color: #F5F1DC;
+}
