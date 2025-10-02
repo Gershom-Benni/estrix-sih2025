@@ -4,7 +4,10 @@ import Header from '../components/Header'
 import Team_members from '../components/Team_members.jsx'
 const Homepage = () => {
   return (
-    <Header></Header>
+    <>
+      <Header></Header>
+      <Team_members></Team_members>
+    </>
   )
 }
 

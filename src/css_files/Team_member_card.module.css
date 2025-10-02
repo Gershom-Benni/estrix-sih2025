@@ -1,0 +1,30 @@
+.card_container{
+    width: 230px;
+    height:fit-content;
+    background: #FF9013;
+    border-radius: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.img{
+    width: 70px;
+    display: block;
+    border-radius: 50px;
+    border: 3px solid;
+    border-color: #F5F1DC;
+    margin-left: auto;
+    margin-right: auto;
+}
+.name{
+    color: #F5F1DC;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 25px;
+}
+.role{
+    color:#F5F1DC;
+    margin-top: 10px;
+    font-style: italic;
+    font-size: 15px;
+}
